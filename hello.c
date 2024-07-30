@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main ()
 {
-	printf("Hello bvxsdwertyuidsasdghjklo");
+	printf("Hello bvxsdwertyuidsasdghjklo");   //qwerty
 } 
 
