@@ -1,0 +1,288 @@
+    1  ls
+    2  pwd
+    3  git -v
+    4  git config -l
+    5  git config user.name = "Pritam Shaw"
+    6  cd D:
+    7  git init
+    8  git init CSBS_006
+    9  git config user.name = "Pritam Shaw"
+   10  cd CSBS_006/
+   11  git config user.name = "Pritam Shaw"
+   12  git config --global user.name "Pritam Shaw"
+   13  [200~git config --global user.name
+   14  git config --global user.name
+   15  git config user.name
+   16  git config user.name "Pritam Shaw"
+   17  git config user.name
+   18  git config --global user.name
+   19  git config --global user.email "thepritamshaw@gmail.com"
+   20  git config use
+   21  git config --global -l
+   22  git config --global
+   23  git config --global -l
+   24  git config -l
+   25  pwd
+   26  D:
+   27  cd D:
+   28  cd CSBS_006/
+   29  pwd
+   30  git status
+   31  vi
+   32  ls
+   33  gedit hello.c 
+   34  cat hello.c 
+   35  git add hello.c 
+   36  git status
+   37  git add hello.c 
+   38  git status
+   39  git add hello.c 
+   40  git add hello.c
+   41  git status
+   42  git commit -m "C code using Vim"
+   43  git status
+   44  git log
+   45  git branch
+   46  vi hello.c
+   47  cat hello.c 
+   48  git status
+   49  git commit -m "Added comment"
+   50  git status
+   51  git add hello.c
+   52  git add hello.c
+   53  git commit -m "Added comment"
+   54  git branch java
+   55  git branch
+   56  git checkout java
+   57  git log --graph --oneline --all --decorate
+   58  git branch
+   59  gitk --all
+   60  ls
+   61  vi hello.java
+   62  ls -l
+   63  git status
+   64  git add hello.java
+   65  git status
+   66  git commit -m "Committing java file"
+   67  git status
+   68  git checkout master
+   69  git log
+   70  git log -l
+   71  git log
+   72  git checkout java
+   73  git log
+   74  git ref og
+   75  git ref log
+   76  git reflog
+   77  git log -all
+   78  git log --all
+   79  git checkout master'
+   80  git checkout master
+   81  git log --all
+   82  pwd
+   83  ls'
+   84  ls
+   85  vi hello.c 
+   86  git diff
+   87  git status
+   88  powerof
+   89  poweroff
+   90  cd D:
+   91  git log --graph --oneline
+   92  cd CSBS_006/
+   93  git log --graph --oneline
+   94  git log
+   95  git status
+   96  cat hello.txt
+   97  cat>hellot.txt
+   98  cat hello.txt
+   99  ls
+  100  cat hellot.txt
+  101  git add
+  102  git add hellot.txt
+  103  git commit -m "Text file created"
+  104  git log
+  105  git status
+  106  git log --graph --oneline
+  107  git revert  735dedf
+  108  git log --graph --oneline
+  109  ls
+  110  git revert 261729a
+  111  ls
+  112  git log
+  113  git log --graph --oneline
+  114  cd D:
+  115  cd CSBS_006/
+  116  git log --graph --oneline
+  117  git remote add origin https://github.com/thepritamshaw/CSBS_006.git
+  118  git remote -v
+  119  git push origin java
+  120  git branch
+  121  git checkout java
+  122  git branch
+  123  git checkout main
+  124  ls -a
+  125  git branch
+  126  ls
+  127  git pull origin java
+  128  ls
+  129  git checkout main
+  130  ls
+  131  git branch
+  132  git checkout master
+  133  git log --grapg --oneline
+  134  git log --graph --oneline
+  135  ls
+  136  git pull origin java
+  137  ls
+  138  ls -a
+  139  git branch
+  140  git push origin master
+  141  cd..
+  142  git clone https://github.com/thepritamshaw/CSBS_006.git
+  143  ls
+  144  cd CSBS_006/
+  145  git branch
+  146  cd ..
+  147  git clone https://github.com/thepritamshaw/CSBS_006.git
+  148  git clone https://github.com/thepritamshaw/CSBS_006.git
+  149  git remote -v
+  150  git branch -r
+  151  cd CSBS_006/
+  152  git branch -r
+  153  git branchg=
+  154  git branch
+  155  git fetch --all
+  156  git branch
+  157  git branch
+  158  git branch -r
+  159  git checkout -b master origin/master
+  160  git branch
+  161  cd
+  162  cd D:
+  163  cd CSBS_006/
+  164  cd CSBS_006/
+  165  git branch
+  166  ls
+  167  rm hello.java
+  168  ls
+  169  git checkout branch
+  170  git branch
+  171  git checkout java
+  172  git branch
+  173  ls
+  174  git rm hello.c
+  175  git checkout master
+  176  git remote add origin https://github.com/thepritamshaw/CSBS_006.git
+  177  cd D:
+  178  ls
+  179  git config --global
+  180  git config --global user.name
+  181  git config --global user.id
+  182  git config --global user.email
+  183  cd repo1
+  184  git init
+  185  git clone https://github.com/thepritamshaw/CSBS_006.git
+  186  git pull
+  187  git-pull
+  188  git-pull(1)
+  189   git branch --set-upstream-to=<remote>/<branch> master
+  190  git pull origin master
+  191  git pull master
+  192  D:
+  193  cd D:
+  194  git clone https://github.com/thepritamshaw/CSBS_006.git
+  195  cd repo2
+  196  git clone https://github.com/thepritamshaw/CSBS_006.git
+  197  git pull
+  198  git remote add origin https://github.com/thepritamshaw/devopsTest.git
+  199  git init
+  200  git commit -m "first commit"
+  201  git status
+  202  git remote add origin https://github.com/thepritamshaw/devopsTest.git
+  203  git push -u origin master
+  204  git push origin master
+  205  ls
+  206  cat temp.txt
+  207  cat>temp.txt
+  208  git status
+  209  git add temp.txt
+  210  git status
+  211  git commit -m "First Commit"
+  212  git push origin master
+  213  git bracnch newBranch
+  214  git branch newBranch
+  215  git branch
+  216  git branch newBranch
+  217  history
+  218  git checkout newBranch
+  219  git status
+  220  cat>branch.txt
+  221  git status
+  222  git add branch.txt 
+  223  git commit -m "Branch Commit"
+  224  git status
+  225  git push origin master
+  226  git branch
+  227  git push -u origin master
+  228  git push -u origin newBranch
+  229  git init
+  230  git remote add origin https://github.com/thepritamshaw/devopsTest.git
+  231  ls
+  232  git pull
+  233  ls
+  234  history
+  235  git remote -v
+  236  ls
+  237  git pull -r newBranch
+  238  pit pull devopsTest
+  239  git pull devopsTest
+  240  git pull https://github.com/thepritamshaw/devopsTest.git
+  241  ls
+  242  git branch
+  243  git branch -v
+  244  git branch -a
+  245  git checkout newBranch
+  246  ls
+  247  git branch -a
+  248  git status
+  249  cat>repo1Commit.txt
+  250  git status
+  251  git add repo1Commit.txt 
+  252  git status
+  253  git commit -m "Commiting from the pull repo1."
+  254  git push origin newBranch
+  255  git branch repo1Branch
+  256  git branch
+  257  git checkout repo1Branch 
+  258  cat>newBranchRepo1.txt
+  259  git add newBranchRepo1.txt 
+  260  git status
+  261  git commit -m "added a file in new branch of repo1 in a newbranch"
+  262  git push origin repo1Branch 
+  263  git log
+  264  git branch
+  265  git branch -d newBranch
+  266  git branch
+  267  git clone https://github.com/thepritamshaw/devopsTest.git
+  268  git branch
+  269  git init
+  270  ls
+  271  cd devopsTest/
+  272  git branch
+  273  git branch -v
+  274  git remote newBranch
+  275  git remote add -t
+  276  git remote add -t newBranch
+  277  git branch
+  278  git branch -a
+  279  git status
+  280  git branch
+  281  git branch repo2Branch
+  282  git checkout repo2Branch 
+  283  cat>newBranchRepo2.txt
+  284  git add newBranchRepo2.txt 
+  285  git commit -m "added file in local repo 2 in a new branch"
+  286  git push origin repo2Branch 
+  287  git diff branch-name repo2/branch-name
+  288  history>history.log
